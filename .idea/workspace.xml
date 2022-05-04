@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="abb78cd5-5887-45df-8ddf-288a78b6fffa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Chompsky/genProjects/GuessTheNumber"
+    "last_opened_file_path": "C:/Users/Chompsky/genProjects/DragonCave"
   }
 }]]></component>
   <component name="RunManager">

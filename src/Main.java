@@ -33,7 +33,10 @@ public class Main {
     }
 
     public static void testGuess() {
-        if (tries > 5) {
+        if (guess == number) {
+            System.out.println("Good job, " + playerName + " You guessed my number in " + tries + " guesses!");
+            playAgain();
+        } else if (tries == 6) {
             System.out.println("Sorry, " + playerName + " but you lose.");
             playAgain();
         } else {
@@ -43,9 +46,6 @@ public class Main {
                 System.out.println("Your guess is too high.");
             } else if (guess < number) {
                 System.out.println("Your guess is too low");
-            } else {
-                System.out.println("Good job, " + playerName + " You guessed my number in " + tries + " guesses!");
-                playAgain();
             }
         }
     }
